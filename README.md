@@ -1,4 +1,4 @@
-# 3rd Project - Mobile Schedule App
+# 3rd Project - Soccer League Mobile Schedule App
 
 ### JavaScript & Vue.Js with Firebase, HTML & CSS
 
